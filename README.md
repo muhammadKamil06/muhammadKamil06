@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NooBie7406 <img src="beluga-modified.png"></h1>
+<h1 align="center">Hi 👋, I'm NooBie7406 </h1>
 
 <img align="center" alt="Coding" width="600" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47ow1w1263v8ay11xa1vi7x88uff28xfni3we0b6fy&rid=200w.webp&ct=g">
 
