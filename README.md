@@ -17,7 +17,7 @@
 <h4 align="left">Connect with Me (^‥^)ノ</h4>
 <p align="left">
 <a href="https://fb.com/facebook.com/noobie7406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/noobie7406" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/muhammadkamil2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/muhammadkamil2301" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/NooBie7406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/muhammadkamil2301" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadkamil06&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkamil06" /> </p>
